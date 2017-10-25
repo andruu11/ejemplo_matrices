@@ -1,0 +1,5 @@
+C:\Users\jhass\AppData\Local\Temporary Projects\matriz2\bin\Debug\matriz2.exe.config
+C:\Users\jhass\AppData\Local\Temporary Projects\matriz2\bin\Debug\matriz2.exe
+C:\Users\jhass\AppData\Local\Temporary Projects\matriz2\bin\Debug\matriz2.pdb
+C:\Users\jhass\AppData\Local\Temporary Projects\matriz2\obj\Debug\matriz2.exe
+C:\Users\jhass\AppData\Local\Temporary Projects\matriz2\obj\Debug\matriz2.pdb
